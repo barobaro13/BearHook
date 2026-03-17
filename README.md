@@ -29,3 +29,6 @@ You can always make this work with different ways since its open source. Most of
 But like i said, You can customize it. I have a stronger evolution of this file but i cant post it here.
 
 Feel free to use it. but dont forget that YOU USE THIS AT YOUR OWN RISK. I DONT HAVE ANYTHING TO DO IF YOU FACE ANY CONSUQUENCES.
+
+A Showcase that how it will look:
+<img width="1062" height="787" alt="Screenshot 2026-03-15 163549" src="https://github.com/user-attachments/assets/e1049341-6322-48ff-afa6-71aca0c6f067" />
