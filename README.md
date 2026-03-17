@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="Yeni Proje (37)" src="https://github.com/user-attachments/assets/c50201a5-c514-4f65-a7c1-ccf2d138b9cc" />
+
 Welcome to the Bear Hook Guide.
 
 First of all you need to download the "bearhook.py" to your PC. Contain it in a folder, Open the cmd and type "cd -your_file_location-"
